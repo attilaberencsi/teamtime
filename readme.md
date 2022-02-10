@@ -1,4 +1,6 @@
 # Team Time
+Complete documentation available here: https://www.sapdev.eu/team-time-fiori-map/
+
 
 Joining a large multilocation team can be tricky, because you have to know what time is it at Your colleagues location. During communication with Your colleagues or scheduling a meeting etc. a fast insight can be really helpful.
 Other hand if You are not challenged enough professionaly, then  You turn to fun programming in Your freetime to face some challenges and interesting topics. At least this is what I am doing to not loose joy of software development. At the same time this brings You a big benefit to gain experience in innovative areas.
@@ -18,4 +20,4 @@ This sample app shows the Analytical Map map of SAPUI5 librariy can be used with
 
 ## Operation
 
-  To get this up and running, You need a simple web server. I am using github.io. Look at at it [here](https://attilaberencsi.github.io/teamtime/)
+  To get this up and running, You need a simple web server. I am using github.io. Look at at it [here](https://attilaberencsi.github.io/teamtimelive/)
