@@ -1,0 +1,67 @@
+{
+    "regionProperties": [
+        {
+            "code": "EU",
+            "legend": "Europe",
+            "color": "rgba(184,225,245,1.0)",
+            "tooltip": "Europe\r\n\r\nPopulation: 743 Mio"
+        },
+        {
+            "code": "NA",
+            "legend": "North America",
+            "color": "rgba(5,71,102,1.0)"
+        },
+        {
+            "code": "AS",
+            "legend": "Asia",
+            "color": "rgba(92,186,229,1.0)"
+        }
+    ],
+    "Spots": [
+        {
+            "time": "--:-- -- ",
+            "timeZone": "CET",
+            "timeZoneJS": "Europe/Berlin",
+            "pos": "13.415552025336362;52.520252805863194;0",
+            "city": "Berlin",
+            "type": "Default",
+            "text": "Herr Smart, Frau Unsure,"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "GMT",
+            "timeZoneJS": "Europe/Dublin",
+            "pos": "-6.259248101112975;53.34024996892022;0",
+            "city": "Cork",
+            "type": "Default",
+            "text": "Agent Bro"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "WET",
+            "timeZoneJS": "Europe/Lisbon",
+            "pos": "-9.21744876087422;38.69658002963503;0",
+            "city": "Lisbon",
+            "type": "Default",
+            "text": "Power Pablo, Teak Torrente"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "GMT",
+            "timeZoneJS": "Europe/London",
+            "pos": "-0.1439759547212563;51.57767050555364;0",
+            "city": "London",
+            "type": "Default",
+            "text": "Mr.Complain, Ms.Problem"
+        },
+        {
+            "time": "--:-- -- ",
+            "timeZone": "CET",
+            "timeZoneJS": "Europe/Budapest",
+            "pos": "19.067484719926185;47.468987117350245;0",
+            "city": "Budapest",
+            "type": "Default",
+            "text": "Prof. Niemand"
+        }
+    ]
+}
